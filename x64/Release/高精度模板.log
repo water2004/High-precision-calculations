@@ -1,0 +1,11 @@
+﻿  源.cpp
+J:\Personal material\Programming\C++\templates\4位压位高精度模板\big_int.h(319,1): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+J:\Personal material\Programming\C++\templates\4位压位高精度模板\big_int.h(546,27): warning C4018: “<=”: 有符号/无符号不匹配
+J:\Personal material\Programming\C++\templates\4位压位高精度模板\big_int.h(558,28): warning C4018: “<=”: 有符号/无符号不匹配
+J:\Personal material\Programming\C++\templates\4位压位高精度模板\源.cpp(8,9): warning C4101: “b”: 未引用的局部变量
+  正在生成代码
+  21 of 26 functions (80.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  高精度模板.vcxproj -> J:\Personal material\Programming\C++\templates\4位压位高精度模板\x64\Release\高精度模板.exe
